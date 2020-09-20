@@ -1,5 +1,7 @@
 # Mesto
 
+[https://lexankh.github.io/mesto](https://lexankh.github.io/mesto)
+
 Четвертый по счету проект в рамках курса "Фронтенд-разработчик" от Яндекс.Практикум
 
 ## Содержание проекта
